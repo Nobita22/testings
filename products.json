@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Articulated Dragon",
+    "category": "Toys",
+    "price": 299,
+    "image": "media/dragon.jpg",
+    "description": "Flexible 3D printed dragon"
+  },
+  {
+    "id": 2,
+    "name": "Infinity Fidget",
+    "category": "Fidgets",
+    "price": 149,
+    "image": "media/fidget-cube.jpg",
+    "description": "Satisfying pocket fidget"
+  },
+  {
+    "id": 3,
+    "name": "Flexi Snake",
+    "category": "Toys",
+    "price": 199,
+    "image": "media/flexi-snake.jpg",
+    "description": "Flexible articulated snake"
+  },
+  {
+    "id": 4,
+    "name": "Modern Mini Vase",
+    "category": "Decor",
+    "price": 249,
+    "image": "media/vase.jpg",
+    "description": "Minimal 3D printed decor"
+  },
+  {
+    "id": 5,
+    "name": "Mini Animal Set",
+    "category": "Sets",
+    "price": 399,
+    "image": "media/mini-animals.jpg",
+    "description": "Cute miniature animal collection"
+  }
+]
